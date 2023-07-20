@@ -1,0 +1,26 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-c11books-staging-42936-authRole",
+      "UnauthRoleArn": "arn:aws:iam::958038782434:role/amplify-c11books-staging-42936-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::958038782434:role/amplify-c11books-staging-42936-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-c11books-staging-42936-deployment",
+      "UnauthRoleName": "amplify-c11books-staging-42936-unauthRole",
+      "StackName": "amplify-c11books-staging-42936",
+      "StackId": "arn:aws:cloudformation:us-east-1:958038782434:stack/amplify-c11books-staging-42936/08ebab70-26b6-11ee-9756-0e0cb894d3d9",
+      "AmplifyAppId": "d1ldsntfjf9f5q"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1ldsntfjf9f5q",
+          "type": "manual"
+        }
+      },
+      "api": {
+        "c11books": {}
+      }
+    }
+  }
+}
